@@ -1,0 +1,20 @@
+C:\Users\rafa\source\repos\Controle Arduino Desktop\Controle Arduino Desktop\bin\Debug\net5.0-windows\Controle Arduino Desktop.exe
+C:\Users\rafa\source\repos\Controle Arduino Desktop\Controle Arduino Desktop\bin\Debug\net5.0-windows\Controle Arduino Desktop.deps.json
+C:\Users\rafa\source\repos\Controle Arduino Desktop\Controle Arduino Desktop\bin\Debug\net5.0-windows\Controle Arduino Desktop.runtimeconfig.json
+C:\Users\rafa\source\repos\Controle Arduino Desktop\Controle Arduino Desktop\bin\Debug\net5.0-windows\Controle Arduino Desktop.runtimeconfig.dev.json
+C:\Users\rafa\source\repos\Controle Arduino Desktop\Controle Arduino Desktop\bin\Debug\net5.0-windows\Controle Arduino Desktop.dll
+C:\Users\rafa\source\repos\Controle Arduino Desktop\Controle Arduino Desktop\bin\Debug\net5.0-windows\ref\Controle Arduino Desktop.dll
+C:\Users\rafa\source\repos\Controle Arduino Desktop\Controle Arduino Desktop\bin\Debug\net5.0-windows\Controle Arduino Desktop.pdb
+C:\Users\rafa\source\repos\Controle Arduino Desktop\Controle Arduino Desktop\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\rafa\source\repos\Controle Arduino Desktop\Controle Arduino Desktop\obj\Debug\net5.0-windows\Controle Arduino Desktop.vbprojAssemblyReference.cache
+C:\Users\rafa\source\repos\Controle Arduino Desktop\Controle Arduino Desktop\obj\Debug\net5.0-windows\Controle_Arduino_Desktop.Form1.resources
+C:\Users\rafa\source\repos\Controle Arduino Desktop\Controle Arduino Desktop\obj\Debug\net5.0-windows\Controle Arduino Desktop.vbproj.GenerateResource.cache
+C:\Users\rafa\source\repos\Controle Arduino Desktop\Controle Arduino Desktop\obj\Debug\net5.0-windows\Controle Arduino Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafa\source\repos\Controle Arduino Desktop\Controle Arduino Desktop\obj\Debug\net5.0-windows\Controle Arduino Desktop.AssemblyInfoInputs.cache
+C:\Users\rafa\source\repos\Controle Arduino Desktop\Controle Arduino Desktop\obj\Debug\net5.0-windows\Controle Arduino Desktop.AssemblyInfo.vb
+C:\Users\rafa\source\repos\Controle Arduino Desktop\Controle Arduino Desktop\obj\Debug\net5.0-windows\Controle Arduino Desktop.vbproj.CoreCompileInputs.cache
+C:\Users\rafa\source\repos\Controle Arduino Desktop\Controle Arduino Desktop\obj\Debug\net5.0-windows\Controle Arduino Desktop.vbproj.CopyComplete
+C:\Users\rafa\source\repos\Controle Arduino Desktop\Controle Arduino Desktop\obj\Debug\net5.0-windows\Controle Arduino Desktop.dll
+C:\Users\rafa\source\repos\Controle Arduino Desktop\Controle Arduino Desktop\obj\Debug\net5.0-windows\ref\Controle Arduino Desktop.dll
+C:\Users\rafa\source\repos\Controle Arduino Desktop\Controle Arduino Desktop\obj\Debug\net5.0-windows\Controle Arduino Desktop.pdb
+C:\Users\rafa\source\repos\Controle Arduino Desktop\Controle Arduino Desktop\obj\Debug\net5.0-windows\Controle Arduino Desktop.genruntimeconfig.cache
